@@ -195,7 +195,7 @@ SUBARCH := arm
 SUBARCH := arm
 export KBUILD_BUILDHOST := $(SUBARCH)
 ARCH		?= arm
-CROSS_COMPILE	?= /home/akshay/android/toolchains/arm-eabi-4.7/bin/arm-eabi-
+CROSS_COMPILE	?= /home/harish/android/arm-eabi-4.7/bin/arm-eabi-
 
 # Architecture as present in compile.h
 UTS_MACHINE 	:= $(ARCH)
@@ -390,7 +390,7 @@ KBUILD_CFLAGS   := -Wno-trigraphs \
                    -ftree-vectorize -funsafe-math-optimizations \
                    -fsched-spec-load -mvectorize-with-neon-quad \
                    -fmodulo-sched -fmodulo-sched-allow-regmoves \
-       -fno-delete-null-pointer-checks \ 
+       -fno-delete-null-pointer-checks \
                     $(ARM_FLAGS)
 
 KBUILD_AFLAGS_KERNEL :=
