@@ -21,3 +21,9 @@ nconf
 qconf
 gconf
 kxgettext
+/.conf.cmd
+/.conf.o.cmd
+/.zconf.tab.o.cmd
+/conf.o
+/zconf.tab.o
+/*.gitignore

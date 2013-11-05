@@ -1,2 +1,5 @@
 # Generated file
 mdp
+/.mdp.cmd
+/modules.order
+/*.gitignore

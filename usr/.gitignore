@@ -8,3 +8,13 @@ initramfs_data.cpio.bz2
 initramfs_data.cpio.lzma
 initramfs_list
 include
+/.built-in.o.cmd
+/.gen_init_cpio.cmd
+/.initramfs_data.cpio.cmd
+/.initramfs_data.cpio.d
+/.initramfs_data.o.cmd
+/built-in.o
+/initramfs_data.o
+/modules.builtin
+/modules.order
+/*.gitignore

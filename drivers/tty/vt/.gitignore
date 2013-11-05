@@ -1,2 +1,7 @@
 consolemap_deftbl.c
 defkeymap.c
+/.built-in.o.cmd
+/built-in.o
+/modules.builtin
+/modules.order
+/*.gitignore

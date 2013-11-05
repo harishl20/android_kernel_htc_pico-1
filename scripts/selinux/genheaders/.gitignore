@@ -1,1 +1,4 @@
 genheaders
+/.genheaders.cmd
+/modules.order
+/*.gitignore

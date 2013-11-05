@@ -2,3 +2,16 @@ elfconfig.h
 mk_elfconfig
 modpost
 
+/.elfconfig.h.cmd
+/.empty.o.cmd
+/.file2alias.o.cmd
+/.mk_elfconfig.cmd
+/.modpost.cmd
+/.modpost.o.cmd
+/.sumversion.o.cmd
+/empty.o
+/file2alias.o
+/modpost.o
+/modules.order
+/sumversion.o
+/*.gitignore
